@@ -1,4 +1,4 @@
-# UK VAT RAG Demo (LangChain + Chroma + OpenAI)
+# RAG Demo (LangChain + Chroma + OpenAI)
 
 A minimal, modular Retrieval-Augmented Generation (RAG) pipeline for UK VAT guidance.  
 It **scrapes** GOV.UK pages, **chunks** the text, **indexes** it locally with **Chroma**, and **answers questions** with **LangChain + OpenAI** using grounded context and **citations**.
